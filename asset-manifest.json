@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hakuna-matata/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hakuna-matata/static/js/main.1622cb7c.chunk.js",
+    "main.js.map": "/hakuna-matata/static/js/main.1622cb7c.chunk.js.map",
+    "runtime-main.js": "/hakuna-matata/static/js/runtime-main.d07a5429.js",
+    "runtime-main.js.map": "/hakuna-matata/static/js/runtime-main.d07a5429.js.map",
+    "static/js/2.b446e87a.chunk.js": "/hakuna-matata/static/js/2.b446e87a.chunk.js",
+    "static/js/2.b446e87a.chunk.js.map": "/hakuna-matata/static/js/2.b446e87a.chunk.js.map",
+    "static/js/3.83aedd80.chunk.js": "/hakuna-matata/static/js/3.83aedd80.chunk.js",
+    "static/js/3.83aedd80.chunk.js.map": "/hakuna-matata/static/js/3.83aedd80.chunk.js.map",
+    "index.html": "/hakuna-matata/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hakuna-matata/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b446e87a.chunk.js.LICENSE.txt": "/hakuna-matata/static/js/2.b446e87a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hakuna-matata/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d07a5429.js",
+    "static/js/2.b446e87a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1622cb7c.chunk.js"
+  ]
+}
